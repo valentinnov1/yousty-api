@@ -1,0 +1,3 @@
+# Direct dependencies: the web framework and its development server.
+fastapi==0.143.0
+uvicorn==0.54.0

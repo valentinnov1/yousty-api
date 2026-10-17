@@ -1,0 +1,42 @@
+[
+  {
+    "apprenticeship_id": "A01",
+    "occupation_id": "O01",
+    "company_id": "C01",
+    "location_id": "L01",
+    "availability_year": 2027,
+    "availability_status": "Available"
+  },
+  {
+    "apprenticeship_id": "A02",
+    "occupation_id": "O03",
+    "company_id": "C01",
+    "location_id": "L01",
+    "availability_year": 2027,
+    "availability_status": "Not available"
+  },
+  {
+    "apprenticeship_id": "A03",
+    "occupation_id": "O01",
+    "company_id": "C01",
+    "location_id": "L02",
+    "availability_year": 2027,
+    "availability_status": "Available"
+  },
+  {
+    "apprenticeship_id": "A04",
+    "occupation_id": "O02",
+    "company_id": "C03",
+    "location_id": "L03",
+    "availability_year": 2027,
+    "availability_status": "Available"
+  },
+  {
+    "apprenticeship_id": "A05",
+    "occupation_id": "O01",
+    "company_id": "C02",
+    "location_id": "L03",
+    "availability_year": 2027,
+    "availability_status": "Not available"
+  }
+]
